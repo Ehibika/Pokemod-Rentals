@@ -1,0 +1,213 @@
+clearplayerclasses
+AddPlayerClass R_Smeargle 
+
+AddPlayerClass R_Bulbasaur 
+AddPlayerClass R_Ivysaur 
+AddPlayerClass R_Venusaur
+
+AddPlayerClass R_Charmander
+AddPlayerClass R_Charmeleon
+AddPlayerClass R_Charizard
+
+AddPlayerClass R_Squirtle
+AddPlayerClass R_Wartortle
+AddPlayerClass R_Blastoise
+
+AddPlayerClass R_Chikorita
+AddPlayerClass R_Bayleef
+AddPlayerClass R_Meganium
+
+AddPlayerClass R_Cyndaquil
+AddPlayerClass R_Quilava
+AddPlayerClass R_Typhlosion
+
+AddPlayerClass R_Totodile
+AddPlayerClass R_Croconaw
+AddPlayerClass R_Feraligatr
+
+AddPlayerClass R_Treecko
+AddPlayerClass R_Grovyle
+AddPlayerClass R_Sceptile
+AddPlayerClass R_Torchic
+AddPlayerClass R_Combusken
+AddPlayerClass R_Blaziken
+AddPlayerClass R_Mudkip
+AddPlayerClass R_Marshtomp
+AddPlayerClass R_Swampert
+
+AddPlayerClass R_Turtwig
+AddPlayerClass R_Grotle
+AddPlayerClass R_Torterra
+AddPlayerClass R_Chimchar
+AddPlayerClass R_Monferno
+AddPlayerClass R_Infernape
+AddPlayerClass R_Piplup
+AddPlayerClass R_Prinplup
+AddPlayerClass R_Empoleon
+
+AddPlayerClass R_Dreepy
+AddPlayerClass R_Drakloak
+AddPlayerClass R_Dragapult
+
+AddPlayerClass R_Dratini
+AddPlayerClass R_Dragonair
+AddPlayerClass R_Dragonite
+
+AddPlayerClass R_Bagon
+AddPlayerClass R_Shelgon
+AddPlayerClass R_Salamence
+
+AddPlayerClass R_Slowpoke
+AddPlayerClass R_Slowbro
+AddPlayerClass R_Slowking
+
+AddPlayerClass R_Staryu
+AddPlayerClass R_Starmie
+
+AddPlayerClass R_Shellder
+AddPlayerClass R_Cloyster
+
+AddPlayerClass R_Vulpix
+AddPlayerClass R_Ninetales
+AddPlayerClass R_Vulpix_A
+AddPlayerClass R_Ninetales_A
+AddPlayerClass R_Snover
+AddPlayerClass R_Abomasnow
+AddPlayerClass R_Swinub
+AddPlayerClass R_Piloswine
+AddPlayerClass R_Mamoswine
+AddPlayerClass R_Abra
+AddPlayerClass R_Kadabra
+AddPlayerClass R_Alakazam
+AddPlayerClass R_Drowzee
+AddPlayerClass R_Hypno
+AddPlayerClass R_Ralts
+AddPlayerClass R_Kirlia
+AddPlayerClass R_Gardevoir
+AddPlayerClass R_Gallade
+AddPlayerClass R_Exeggcute
+AddPlayerClass R_Exeggutor
+AddPlayerClass R_Torkoal
+AddPlayerClass R_Slugma
+AddPlayerClass R_Magcargo
+AddPlayerClass R_Pichu
+AddPlayerClass R_Pikachu
+AddPlayerClass R_Raichu
+AddPlayerClass R_Ferroseed
+AddPlayerClass R_Ferrothorn
+AddPlayerClass R_Horsea
+AddPlayerClass R_Seadra
+AddPlayerClass R_Kingdra
+AddPlayerClass R_Cherubi
+AddPlayerClass R_Cherrim_O
+AddPlayerClass R_Cherrim_S
+AddPlayerClass R_Growlithe
+AddPlayerClass R_Arcanine
+
+AddPlayerClass R_Deino
+AddPlayerClass R_Zweilous
+AddPlayerClass R_Hydreigon
+
+AddPlayerClass R_Solosis
+AddPlayerClass R_Duosion
+AddPlayerClass R_Reuniclus
+
+AddPlayerClass R_Happiny
+AddPlayerClass R_Chansey
+AddPlayerClass R_Blissey
+
+AddPlayerClass R_Geodude
+AddPlayerClass R_Graveler
+AddPlayerClass R_Golem
+
+AddPlayerClass R_Geodude_a
+AddPlayerClass R_Graveler_a
+AddPlayerClass R_Golem_a
+
+AddPlayerClass R_Onix
+AddPlayerClass R_Steelix
+
+AddPlayerClass R_Scyther
+AddPlayerClass R_Scizor
+
+AddPlayerClass R_Zangoose
+
+AddPlayerClass R_Seviper
+
+AddPlayerClass R_Beldum
+AddPlayerClass R_Metang
+AddPlayerClass R_Metagross
+
+AddPlayerClass R_Cleffa
+AddPlayerClass R_Clefairy
+AddPlayerClass R_Clefable
+
+AddPlayerClass R_Igglybuff
+AddPlayerClass R_Jigglypuff
+AddPlayerClass R_Wigglytuff
+
+AddPlayerClass R_Audino
+
+AddPlayerClass R_Alomomola
+
+AddPlayerClass R_Bergmite
+AddPlayerClass R_Avalugg
+
+AddPlayerClass R_Croagunk
+AddPlayerClass R_Toxicroak
+
+AddPlayerClass R_Ekans
+AddPlayerClass R_Arbok
+
+AddPlayerClass R_Stunky
+AddPlayerClass R_Skuntank
+
+AddPlayerClass R_Gulpin
+AddPlayerClass R_Swalot
+
+AddPlayerClass R_Gastly
+AddPlayerClass R_Haunter
+AddPlayerClass R_Gengar
+AddPlayerClass R_Tentacool
+AddPlayerClass R_Tentacruel
+AddPlayerClass R_Magikarp
+AddPlayerClass R_Gyarados
+AddPlayerClass R_Qwilfish
+AddPlayerClass R_Skarmory
+AddPlayerClass R_Larvesta
+AddPlayerClass R_Volcarona
+AddPlayerClass R_Mantyke
+AddPlayerClass R_Mantine
+AddPlayerClass R_Trapinch
+AddPlayerClass R_Vibrava
+AddPlayerClass R_Flygon
+AddPlayerClass R_Cacnea
+AddPlayerClass R_Cacturne
+AddPlayerClass R_Munchlax
+AddPlayerClass R_Snorlax
+AddPlayerClass R_Seedot
+AddPlayerClass R_Nuzleaf
+AddPlayerClass R_Shiftry
+AddPlayerClass R_Magnemite
+AddPlayerClass R_Magneton
+AddPlayerClass R_Magnezone
+AddPlayerClass R_Murkrow
+AddPlayerClass R_Honchkrow
+AddPlayerClass R_Tangela
+AddPlayerClass R_Tangrowth
+AddPlayerClass R_Joltik
+AddPlayerClass R_Galvantula
+AddPlayerClass R_Mareep
+AddPlayerClass R_Flaaffy
+AddPlayerClass R_Ampharos
+AddPlayerClass R_Pinsir
+AddPlayerClass R_Heracross
+AddPlayerClass R_Yanma
+AddPlayerClass R_Yanmega
+AddPlayerClass R_Shuckle
+AddPlayerClass R_Durant
+AddPlayerClass R_Venonat
+AddPlayerClass R_Venomoth
+AddPlayerClass R_Wimpod
+AddPlayerClass R_Golisopod
+//--[NewPokemon]--

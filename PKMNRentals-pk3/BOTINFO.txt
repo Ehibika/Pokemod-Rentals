@@ -1,0 +1,3363 @@
+clearbots
+
+{
+	name = "Smeargle"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Smeargle"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeafMove1"
+}
+
+{
+	name = "Bulbasaur"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Bulbasaur"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeafMove1"
+}
+
+{
+	name = "Ivysaur"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Ivysaur"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "EmberMove1"
+}
+
+{
+	name = "Venusaur"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Venusaur"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "WaterGunMove1"
+}
+
+{
+	name = "Charmander"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Charmander"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "Ember"
+}
+ 
+{
+	name = "Charmeleon"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Charmeleon"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "Ember"
+}
+ 
+{
+	name = "Charizard"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Charizard"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "Ember"
+}
+ 
+
+{
+	name = "Squirtle"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Squirtle"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "Watergun"
+}
+
+{
+	name = "Wartortle"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Wartortle"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "Watergun"
+}
+
+{
+	name = "Blastoise"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Blastoise"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "Watergun"
+}
+
+
+{
+	name = "Chikorita"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Chikorita"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Bayleef"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Bayleef"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Meganium"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Meganium"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Cyndaquil"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Cyndaquil"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Quilava"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Quilava"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Typhlosion"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Typhlosion"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Totodile"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Totodile"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Croconaw"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Croconaw"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Feraligatr"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Feraligatr"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+
+{
+	name = "Treecko"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Treecko"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Grovyle"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Grovyle"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Sceptile"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Sceptile"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Torchic"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Torchic"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Combusken"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Combusken"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Blaziken"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Blaziken"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Mudkip"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Mudkip"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Marshtomp"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Marshtomp"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Swampert"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Swampert"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+
+{
+	name = "Turtwig"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Turtwig"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Grotle"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Grotle"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Torterra"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Torterra"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Chimchar"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Chimchar"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Monferno"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Monferno"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Infernape"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Infernape"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Piplup"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Piplup"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Prinplup"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Prinplup"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Empoleon"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Empoleon"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Dreepy"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Dreepy"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Drakloak"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Drakloak"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Dragapult"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Dragapult"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+
+{
+	name = "Dratini"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Dratini"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Dragonair"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Dragonair"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Dragonite"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Dragonite"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+
+{
+	name = "Bagon"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Bagon"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Shelgon"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Shelgon"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Salamence"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Salamence"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+
+{
+	name = "Slowpoke"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Slowpoke"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Slowbro"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Slowbro"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Slowking"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Slowking"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+
+{
+	name = "Staryu"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Staryu"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Starmie"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Starmie"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Shellder"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Shellder"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+	name = "Cloyster"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Cloyster"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+	favoriteweapon = "RazorLeaf"
+}
+
+{
+    name = "Vulpix"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Vulpix"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IncinerateMove1"
+}
+{
+    name = "Ninetales"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Ninetales"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "InfernoMove1"
+}
+{
+    name = "Vulpix_A"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Vulpix_A"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IcebeamMove1"
+}
+{
+    name = "Ninetales_A"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Ninetales_A"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "MoonBlastMove1"
+}
+{
+    name = "Snover"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Snover"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "RazorLeafMove1"
+}
+{
+    name = "Abomasnow"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Abomasnow"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BlizzardMove1"
+}
+{
+    name = "Swinub"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Swinub"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BulldozeMove1"
+}
+{
+    name = "Piloswine"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Piloswine"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IcyWindMove1"
+}
+{
+    name = "Mamoswine"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Mamoswine"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IcicleCrashMove1"
+}
+{
+    name = "Abra"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Abra"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PsychocutMove1"
+}
+{
+    name = "Kadabra"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Kadabra"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ConfusionMove1"
+}
+{
+    name = "Alakazam"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Alakazam"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PsyshockMove1"
+}
+{
+    name = "Drowzee"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Drowzee"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ExtrasensoryMove1"
+}
+{
+    name = "Hypno"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Hypno"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ExtrasensoryMove1"
+}
+{
+    name = "Ralts"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Ralts"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ConfusionMove1"
+}
+{
+    name = "Kirlia"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Kirlia"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PsybeamMove1"
+}
+{
+    name = "Gardevoir"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Gardevoir"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "MoonBlastMove1"
+}
+{
+    name = "Gallade"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Gallade"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PsyhoCutMove1"
+}
+{
+    name = "Exeggcute"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Exeggcute"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BulletSeedMove1"
+}
+{
+    name = "Exeggutor"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Exeggutor"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SolarBeamMove1"
+}
+{
+    name = "Torkoal"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Torkoal"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "LavaPlumeMove1"
+}
+{
+    name = "Slugma"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Slugma"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IncinerateMove1"
+}
+{
+    name = "Magcargo"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Magcargo"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "InfernoMove1"
+}
+{
+    name = "Pichu"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Pichu"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ElectroballMove1"
+}
+{
+    name = "Pikachu"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Pikachu"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ThunderboltMove1"
+}
+{
+    name = "Raichu"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Raichu"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ThunderboltMove1"
+}
+{
+    name = "Ferroseed"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Ferroseed"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PinMissileMove1"
+}
+{
+    name = "Ferrothorn"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Ferrothorn"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PowerWhipMove1"
+}
+{
+    name = "Horsea"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Horsea"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "WaterPulseMove1"
+}
+{
+    name = "Seadra"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Seadra"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BrineMove1"
+}
+{
+    name = "Kingdra"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Kingdra"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DragonPulseMove1"
+}
+{
+    name = "Cherubi"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Cherubi"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SeedBombMove1"
+}
+{
+    name = "Cherrim_O"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Cherrim_O"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "RazorLeafMove1"
+}
+{
+    name = "Cherrim_A"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Cherrim_A"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SolarBeamMove1"
+}
+{
+    name = "Growlithe"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Growlithe"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "FireBlastMove1"
+}
+{
+    name = "Arcanine"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Arcanine"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "FlameThrowerMove1"
+}
+{
+    name = "Deino"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Deino"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BiteMove1"
+}
+{
+    name = "Zweilous"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Zweilous"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DragonPulseMove1"
+}
+{
+    name = "Hydreigon"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Hydreigon"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "HydroPumpMove1"
+}
+{
+    name = "Solosis"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Solosis"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ConfusionMove1"
+}
+{
+    name = "Duosion"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Duosion"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PsyshockMove1"
+}
+{
+    name = "Reuniclus"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Reuniclus"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PsyBeamMove1"
+}
+{
+    name = "Happiny"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Happiny"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "WishMove1"
+}
+{
+    name = "Chansey"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Chansey"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SoftboiledMove1"
+}
+{
+    name = "Blissey"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Blissey"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SoftboiledMove1"
+}
+{
+    name = "Geodude"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Geodude"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "RockTombMove1"
+}
+{
+    name = "Geodude_A"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Geodude_A"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "RockTombMove1"
+}
+{
+    name = "Graveler"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Graveler"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "RockSlideMove1"
+}
+{
+    name = "Graveler_A"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Graveler_A"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "StoneEdgeMove1"
+}
+{
+    name = "Golem"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Golem"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "RolloutMove1"
+}
+{
+    name = "Golem_A"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Golem_A"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "GyroBallMove1"
+}
+{
+    name = "Onix"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Onix"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "StoneEdgeMove1"
+}
+{
+    name = "Steelix"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Steelix"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IronTailMove1"
+}
+{
+    name = "Scyther"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Scyther"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "WingAttackMove1"
+}
+{
+    name = "Scizor"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Scizor"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IronHeadMove1"
+}
+{
+    name = "Zangoose"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Zangoose"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "CrushClawMove1"
+}
+{
+    name = "Seviper"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Seviper"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PoisonTailMove1"
+}
+{
+    name = "Beldum"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Beldum"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "TakeDownMove1"
+}
+{
+    name = "Metang"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Metang"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "MetalClawMove1"
+}
+{
+    name = "Metagross"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Metagross"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "MeteorMashMove1"
+}
+{
+    name = "Cleffa"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Cleffa"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DrainingKissMove1"
+}
+{
+    name = "Clefairy"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Clefairy"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DazzlingGleamMove1"
+}
+{
+    name = "Clefable"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Clefable"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "MoonBlastMove1"
+}
+{
+    name = "igglybuff"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "igglybuff"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DisarmingVoiceMove1"
+}
+{
+    name = "Jigglypuff"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Jigglypuff"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DrainingKissMove1"
+}
+{
+    name = "Audino"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Audino"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SwiftMove1"
+}
+{
+    name = "Alomomola"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Alomomola"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "HydroPumpMove1"
+}
+{
+    name = "Bergmite"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Bergmite"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IceShardMove1"
+}
+{
+    name = "Avalugg"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Avalugg"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IcicleCrashMove1"
+}
+{
+    name = "Croagunk"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Croagunk"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SludgeBombMove1"
+}
+{
+    name = "Toxicroak"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Toxicroak"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PoisonJabMove1"
+}
+{
+    name = "Ekans"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Ekans"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "AcidSprayMove1"
+}
+{
+    name = "Arbok"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Arbok"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PoisonTailMove1"
+}
+{
+    name = "Stunky"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Stunky"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "FaintAttackMove1"
+}
+{
+    name = "Skuntank"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Skuntank"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "NightSlashMove1"
+}
+{
+    name = "Gulpin"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Gulpin"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SludgeBombMove1"
+}
+{
+    name = "Swalot"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Swalot"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SludgeBombMove1"
+}
+{
+    name = "Wigglytuff"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Wigglytuff"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ToxicMove1"
+}
+{
+    name = "Gastly"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Gastly"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "HexMove1"
+}
+{
+    name = "Haunter"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Haunter"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "FirePunchMove1"
+}
+{
+    name = "Gengar"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Gengar"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ShadowBallMove1"
+}
+{
+    name = "Tentacool"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Tentacool"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BubbleBeamMove1"
+}
+{
+    name = "Tentacruel"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Tentacruel"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SludgeBombMove1"
+}
+{
+    name = "Magikarp"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Magikarp"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "HydroPumpMove1"
+}
+{
+    name = "Gyarados"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Gyarados"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "AquaTailMove1"
+}
+{
+    name = "Qwilfish"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Qwilfish"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "HydroPumpMove1"
+}
+{
+    name = "Skarmory"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Skarmory"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IronHeadMove1"
+}
+{
+    name = "Larvesta"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Larvesta"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IncinerateMove1"
+}
+{
+    name = "Volcarona"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Volcarona"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "FireBlastMove1"
+}
+{
+    name = "Mantyke"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Mantyke"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BubbleBeamMove1"
+}
+{
+    name = "Mantine"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Mantine"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SurfMove1"
+}
+{
+    name = "Trapinch"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Trapinch"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DigMove1"
+}
+{
+    name = "Vibrava"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Vibrava"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DragonBreathMove1"
+}
+{
+    name = "Flygon"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Flygon"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DragonPulseMove1"
+}
+{
+    name = "Cacnea"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Cacnea"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "MegaDrainMove1"
+}
+{
+    name = "Cacturne"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Cacturne"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SolarBeamMove1"
+}
+{
+    name = "Munchlax"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Munchlax"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "TakedownMove1"
+}
+{
+    name = "Snorlax"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Snorlax"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DoubleEdgeMove1"
+}
+{
+    name = "Seedot"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Seedot"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "MegaDrainMove1"
+}
+{
+    name = "Nuzleaf"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Nuzleaf"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "RazorLeafMove1"
+}
+{
+    name = "Shiftry"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Shiftry"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DarkPulseMove1"
+}
+{
+    name = "Magnemite"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Magnemite"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ElectroballMove1"
+}
+{
+    name = "Magneton"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Magneton"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DischargeMove1"
+}
+{
+    name = "Magnezone"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Magnezone"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ThunderBoltMove1"
+}
+{
+    name = "Murkrow"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Murkrow"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "GustMove1"
+}
+{
+    name = "Honchkrow"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Honchkrow"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "AirSlashMove1"
+}
+{
+    name = "Tangela"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Tangela"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "MegaDrainMove1"
+}
+{
+    name = "Tangrowth"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Tangrowth"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "PowerWhipMove1"
+}
+{
+    name = "Joltik"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Joltik"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "FuryCutterMove1"
+}
+{
+    name = "Galvantula"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Galvantula"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BugBuzzMove1"
+}
+{
+    name = "Mareep"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Mareep"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ElectroWebMove1"
+}
+{
+    name = "Flaaffy"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Flaaffy"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ElectroBallMove1"
+}
+{
+    name = "Ampharos"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Ampharos"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ThunderboltMove1"
+}
+{
+    name = "Pinsir"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Pinsir"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "MegahornMove1"
+}
+{
+    name = "Heracross"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Heracross"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "MegahornMove1"
+}
+{
+    name = "Yanma"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Yanma"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "AirSlashMove1"
+}
+{
+    name = "Yanmega"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Yanmega"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BugBuzzMove1"
+}
+{
+    name = "Shuckle"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Shuckle"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "StoneEdgeMove1"
+}
+{
+    name = "Durant"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Durant"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "IronHeadMove1"
+}
+{
+    name = "Venonat"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Venonat"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SignalBeamMove1"
+}
+{
+    name = "Venomoth"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Venomoth"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BugBuzzMove1"
+}
+{
+    name = "Wimpod"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Wimpod"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "LeechLifeMove1"
+}
+{
+    name = "Golisopod"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Golisopod"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "LeechLifeMove1"
+}
+//--[NewPokemon]--
+
+/*
+{
+	name = "Jolteon"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Jolteon"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+}
+
+
+{
+	name = "Flareon"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Flareon"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+}
+
+
+
+{
+	name = "Vaporeon"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Vaporeon"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+}
+
+{
+	name = "Espeon"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Espeon"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+}
+
+{
+	name = "Umbreon"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Umbreon"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+}
+
+{
+	name = "Leafeon"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Leafeon"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+}
+
+{
+	name = "Glaceon"
+	accuracy = 3
+	intellect = 4
+	evade = 1
+	anticipation = 1
+	reactiontime = 1
+	perception = 1
+	color = "00 00 00"
+	gender = "male"
+	skin = "base"
+	class = "Glaceon"
+	revealed = true
+	script = "humanbot"
+	chatlump = "botchats/COPYBOT"
+	chatfrequency = 50
+}
+*/

@@ -1,0 +1,7 @@
+#library "G_Rentals"
+#include "zcommon.acs"
+
+Script "RentalsStart" OPEN
+{
+SetCVar("sv_RentalsMode",1);
+}
