@@ -101,4 +101,15 @@ AddPlayerClass R_Yanma
 //AddPlayerClass R_Durant
 AddPlayerClass R_Venonat
 AddPlayerClass R_Wimpod
+AddPlayerClass R_Machop
+AddPlayerClass R_Machoke
+AddPlayerClass R_Machamp
+AddPlayerClass R_Makuhita
+AddPlayerClass R_Hariyama
+AddPlayerClass R_Tyrogue
+AddPlayerClass R_Hitmonlee
+AddPlayerClass R_Hitmonchan
+AddPlayerClass R_HitmonTop
+AddPlayerClass R_Riolu
+AddPlayerClass R_Lucario
 //--[NewPokemon]--

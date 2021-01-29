@@ -37,7 +37,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeafMove1"
 }
-
+/*
 {
 	name = "Ivysaur"
 	accuracy = 3
@@ -75,7 +75,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "WaterGunMove1"
 }
-
+*/
 {
 	name = "Charmander"
 	accuracy = 3
@@ -94,7 +94,8 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "Ember"
 }
- 
+
+ /*
 {
 	name = "Charmeleon"
 	accuracy = 3
@@ -132,7 +133,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "Ember"
 }
- 
+ */
 
 {
 	name = "Squirtle"
@@ -153,6 +154,7 @@ clearbots
 	favoriteweapon = "Watergun"
 }
 
+ /*
 {
 	name = "Wartortle"
 	accuracy = 3
@@ -190,7 +192,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "Watergun"
 }
-
+*/
 
 {
 	name = "Chikorita"
@@ -211,6 +213,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Bayleef"
 	accuracy = 3
@@ -248,6 +251,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
+*/
 
 {
 	name = "Cyndaquil"
@@ -268,6 +272,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Quilava"
 	accuracy = 3
@@ -305,6 +310,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
+*/
 
 {
 	name = "Totodile"
@@ -325,6 +331,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Croconaw"
 	accuracy = 3
@@ -362,7 +369,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
-
+*/
 
 {
 	name = "Treecko"
@@ -383,6 +390,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Grovyle"
 	accuracy = 3
@@ -420,6 +428,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
+*/
 
 {
 	name = "Torchic"
@@ -440,6 +449,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Combusken"
 	accuracy = 3
@@ -477,6 +487,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
+*/
 
 {
 	name = "Mudkip"
@@ -497,6 +508,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Marshtomp"
 	accuracy = 3
@@ -534,7 +546,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
-
+*/
 
 {
 	name = "Turtwig"
@@ -555,6 +567,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Grotle"
 	accuracy = 3
@@ -592,6 +605,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
+*/
 
 {
 	name = "Chimchar"
@@ -612,6 +626,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Monferno"
 	accuracy = 3
@@ -649,6 +664,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
+*/
 
 {
 	name = "Piplup"
@@ -669,6 +685,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Prinplup"
 	accuracy = 3
@@ -706,6 +723,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
+*/
 
 {
 	name = "Dreepy"
@@ -726,6 +744,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Drakloak"
 	accuracy = 3
@@ -763,7 +782,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
-
+*/
 
 {
 	name = "Dratini"
@@ -784,6 +803,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Dragonair"
 	accuracy = 3
@@ -821,7 +841,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
-
+*/
 
 {
 	name = "Bagon"
@@ -842,6 +862,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Shelgon"
 	accuracy = 3
@@ -879,7 +900,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
-
+*/
 
 {
 	name = "Slowpoke"
@@ -900,6 +921,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Slowbro"
 	accuracy = 3
@@ -937,7 +959,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
-
+*/
 
 {
 	name = "Staryu"
@@ -958,6 +980,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Starmie"
 	accuracy = 3
@@ -976,6 +999,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
+*/
 
 {
 	name = "Shellder"
@@ -996,6 +1020,7 @@ clearbots
 	favoriteweapon = "RazorLeaf"
 }
 
+ /*
 {
 	name = "Cloyster"
 	accuracy = 3
@@ -1014,6 +1039,7 @@ clearbots
 	chatfrequency = 50
 	favoriteweapon = "RazorLeaf"
 }
+*/
 
 {
     name = "Vulpix"
@@ -1033,6 +1059,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "IncinerateMove1"
 }
+
+ /*
 {
     name = "Ninetales"
     accuracy = 3
@@ -1051,6 +1079,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "InfernoMove1"
 }
+*/
+
 {
     name = "Vulpix_A"
     accuracy = 3
@@ -1069,6 +1099,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "IcebeamMove1"
 }
+
+ /*
 {
     name = "Ninetales_A"
     accuracy = 3
@@ -1087,6 +1119,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "MoonBlastMove1"
 }
+*/
+
 {
     name = "Snover"
     accuracy = 3
@@ -1105,6 +1139,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "RazorLeafMove1"
 }
+
+ /*
 {
     name = "Abomasnow"
     accuracy = 3
@@ -1123,6 +1159,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "BlizzardMove1"
 }
+*/
+
 {
     name = "Swinub"
     accuracy = 3
@@ -1141,6 +1179,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "BulldozeMove1"
 }
+
+ /*
 {
     name = "Piloswine"
     accuracy = 3
@@ -1177,6 +1217,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "IcicleCrashMove1"
 }
+*/
+
 {
     name = "Abra"
     accuracy = 3
@@ -1195,6 +1237,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "PsychocutMove1"
 }
+
+ /*
 {
     name = "Kadabra"
     accuracy = 3
@@ -1231,6 +1275,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "PsyshockMove1"
 }
+*/
+
 {
     name = "Drowzee"
     accuracy = 3
@@ -1249,6 +1295,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "ExtrasensoryMove1"
 }
+
+ /*
 {
     name = "Hypno"
     accuracy = 3
@@ -1267,6 +1315,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "ExtrasensoryMove1"
 }
+*/
+
 {
     name = "Ralts"
     accuracy = 3
@@ -1285,6 +1335,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "ConfusionMove1"
 }
+
+ /*
 {
     name = "Kirlia"
     accuracy = 3
@@ -1339,6 +1391,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "PsyhoCutMove1"
 }
+*/
+
 {
     name = "Exeggcute"
     accuracy = 3
@@ -1357,6 +1411,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "BulletSeedMove1"
 }
+
+ /*
 {
     name = "Exeggutor"
     accuracy = 3
@@ -1375,6 +1431,9 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "SolarBeamMove1"
 }
+*/
+
+ /*
 {
     name = "Torkoal"
     accuracy = 3
@@ -1393,6 +1452,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "LavaPlumeMove1"
 }
+*/
+
 {
     name = "Slugma"
     accuracy = 3
@@ -1411,6 +1472,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "IncinerateMove1"
 }
+
+ /*
 {
     name = "Magcargo"
     accuracy = 3
@@ -1429,6 +1492,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "InfernoMove1"
 }
+*/
+
 {
     name = "Pichu"
     accuracy = 3
@@ -1447,6 +1512,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "ElectroballMove1"
 }
+
+/*
 {
     name = "Pikachu"
     accuracy = 3
@@ -1483,6 +1550,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "ThunderboltMove1"
 }
+*/
+
 {
     name = "Ferroseed"
     accuracy = 3
@@ -1501,6 +1570,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "PinMissileMove1"
 }
+/*
 {
     name = "Ferrothorn"
     accuracy = 3
@@ -1519,6 +1589,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "PowerWhipMove1"
 }
+*/
 {
     name = "Horsea"
     accuracy = 3
@@ -1537,6 +1608,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "WaterPulseMove1"
 }
+/*
 {
     name = "Seadra"
     accuracy = 3
@@ -1573,6 +1645,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "DragonPulseMove1"
 }
+*/
+
 {
     name = "Cherubi"
     accuracy = 3
@@ -1591,6 +1665,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "SeedBombMove1"
 }
+/*
 {
     name = "Cherrim_O"
     accuracy = 3
@@ -1627,6 +1702,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "SolarBeamMove1"
 }
+*/
 {
     name = "Growlithe"
     accuracy = 3
@@ -1645,6 +1721,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "FireBlastMove1"
 }
+/*
 {
     name = "Arcanine"
     accuracy = 3
@@ -1663,6 +1740,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "FlameThrowerMove1"
 }
+*/
 {
     name = "Deino"
     accuracy = 3
@@ -1681,6 +1759,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "BiteMove1"
 }
+/*
 {
     name = "Zweilous"
     accuracy = 3
@@ -1717,6 +1796,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "HydroPumpMove1"
 }
+*/
 {
     name = "Solosis"
     accuracy = 3
@@ -1735,6 +1815,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "ConfusionMove1"
 }
+/*
 {
     name = "Duosion"
     accuracy = 3
@@ -1771,6 +1852,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "PsyBeamMove1"
 }
+*/
 {
     name = "Happiny"
     accuracy = 3
@@ -1789,6 +1871,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "WishMove1"
 }
+/*
 {
     name = "Chansey"
     accuracy = 3
@@ -1825,6 +1908,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "SoftboiledMove1"
 }
+*/
 {
     name = "Geodude"
     accuracy = 3
@@ -1861,6 +1945,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "RockTombMove1"
 }
+/*
 {
     name = "Graveler"
     accuracy = 3
@@ -1933,6 +2018,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "GyroBallMove1"
 }
+
 {
     name = "Onix"
     accuracy = 3
@@ -1951,6 +2037,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "StoneEdgeMove1"
 }
+
 {
     name = "Steelix"
     accuracy = 3
@@ -1969,6 +2056,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "IronTailMove1"
 }
+
 {
     name = "Scyther"
     accuracy = 3
@@ -1987,6 +2075,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "WingAttackMove1"
 }
+
 {
     name = "Scizor"
     accuracy = 3
@@ -2041,6 +2130,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "PoisonTailMove1"
 }
+*/
+
 {
     name = "Beldum"
     accuracy = 3
@@ -2059,6 +2150,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "TakeDownMove1"
 }
+/*
 {
     name = "Metang"
     accuracy = 3
@@ -2095,6 +2187,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "MeteorMashMove1"
 }
+*/
 {
     name = "Cleffa"
     accuracy = 3
@@ -2113,6 +2206,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "DrainingKissMove1"
 }
+/*
 {
     name = "Clefairy"
     accuracy = 3
@@ -2149,6 +2243,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "MoonBlastMove1"
 }
+*/
 {
     name = "igglybuff"
     accuracy = 3
@@ -2167,6 +2262,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "DisarmingVoiceMove1"
 }
+/*
 {
     name = "Jigglypuff"
     accuracy = 3
@@ -2185,6 +2281,26 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "DrainingKissMove1"
 }
+
+{
+    name = "Wigglytuff"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Wigglytuff"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "ToxicMove1"
+}
+
 {
     name = "Audino"
     accuracy = 3
@@ -2221,6 +2337,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "HydroPumpMove1"
 }
+*/
 {
     name = "Bergmite"
     accuracy = 3
@@ -2239,6 +2356,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "IceShardMove1"
 }
+/*
 {
     name = "Avalugg"
     accuracy = 3
@@ -2257,6 +2375,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "IcicleCrashMove1"
 }
+*/
 {
     name = "Croagunk"
     accuracy = 3
@@ -2275,6 +2394,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "SludgeBombMove1"
 }
+/*
 {
     name = "Toxicroak"
     accuracy = 3
@@ -2293,6 +2413,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "PoisonJabMove1"
 }
+*/
 {
     name = "Ekans"
     accuracy = 3
@@ -2311,6 +2432,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "AcidSprayMove1"
 }
+/*
 {
     name = "Arbok"
     accuracy = 3
@@ -2329,6 +2451,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "PoisonTailMove1"
 }
+*/
 {
     name = "Stunky"
     accuracy = 3
@@ -2347,6 +2470,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "FaintAttackMove1"
 }
+/*
 {
     name = "Skuntank"
     accuracy = 3
@@ -2365,6 +2489,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "NightSlashMove1"
 }
+*/
 {
     name = "Gulpin"
     accuracy = 3
@@ -2383,6 +2508,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "SludgeBombMove1"
 }
+/*
 {
     name = "Swalot"
     accuracy = 3
@@ -2401,24 +2527,8 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "SludgeBombMove1"
 }
-{
-    name = "Wigglytuff"
-    accuracy = 3
-    intellect = 4
-    evade = 1
-    anticipation = 1
-    reactiontime = 1
-    perception = 1
-    color = "00 00 00"
-    gender = "male"
-    skin = "base"
-    class = "Wigglytuff"
-    revealed = true
-    script = "humanbot"
-    chatlump = "botchats/COPYBOT"
-    chatfrequency = 50
-    favoriteweapon = "ToxicMove1"
-}
+*/
+
 {
     name = "Gastly"
     accuracy = 3
@@ -2437,6 +2547,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "HexMove1"
 }
+/*
 {
     name = "Haunter"
     accuracy = 3
@@ -2455,6 +2566,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "FirePunchMove1"
 }
+
 {
     name = "Gengar"
     accuracy = 3
@@ -2473,6 +2585,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "ShadowBallMove1"
 }
+*/
 {
     name = "Tentacool"
     accuracy = 3
@@ -2491,6 +2604,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "BubbleBeamMove1"
 }
+/*
 {
     name = "Tentacruel"
     accuracy = 3
@@ -2509,6 +2623,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "SludgeBombMove1"
 }
+*/
 {
     name = "Magikarp"
     accuracy = 3
@@ -2527,6 +2642,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "HydroPumpMove1"
 }
+/*
 {
     name = "Gyarados"
     accuracy = 3
@@ -2545,6 +2661,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "AquaTailMove1"
 }
+
 {
     name = "Qwilfish"
     accuracy = 3
@@ -2563,6 +2680,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "HydroPumpMove1"
 }
+
 {
     name = "Skarmory"
     accuracy = 3
@@ -2581,6 +2699,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "IronHeadMove1"
 }
+*/
 {
     name = "Larvesta"
     accuracy = 3
@@ -2599,6 +2718,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "IncinerateMove1"
 }
+/*
 {
     name = "Volcarona"
     accuracy = 3
@@ -2617,6 +2737,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "FireBlastMove1"
 }
+*/
 {
     name = "Mantyke"
     accuracy = 3
@@ -2635,6 +2756,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "BubbleBeamMove1"
 }
+/*
 {
     name = "Mantine"
     accuracy = 3
@@ -2653,6 +2775,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "SurfMove1"
 }
+*/
 {
     name = "Trapinch"
     accuracy = 3
@@ -2671,6 +2794,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "DigMove1"
 }
+/*
 {
     name = "Vibrava"
     accuracy = 3
@@ -2707,6 +2831,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "DragonPulseMove1"
 }
+*/
 {
     name = "Cacnea"
     accuracy = 3
@@ -2725,6 +2850,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "MegaDrainMove1"
 }
+/*
 {
     name = "Cacturne"
     accuracy = 3
@@ -2743,6 +2869,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "SolarBeamMove1"
 }
+*/
 {
     name = "Munchlax"
     accuracy = 3
@@ -2761,6 +2888,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "TakedownMove1"
 }
+/*
 {
     name = "Snorlax"
     accuracy = 3
@@ -2779,6 +2907,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "DoubleEdgeMove1"
 }
+*/
 {
     name = "Seedot"
     accuracy = 3
@@ -2797,6 +2926,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "MegaDrainMove1"
 }
+/*
 {
     name = "Nuzleaf"
     accuracy = 3
@@ -2833,6 +2963,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "DarkPulseMove1"
 }
+*/
 {
     name = "Magnemite"
     accuracy = 3
@@ -2851,6 +2982,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "ElectroballMove1"
 }
+/*
 {
     name = "Magneton"
     accuracy = 3
@@ -2887,6 +3019,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "ThunderBoltMove1"
 }
+*/
 {
     name = "Murkrow"
     accuracy = 3
@@ -2905,6 +3038,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "GustMove1"
 }
+/*
 {
     name = "Honchkrow"
     accuracy = 3
@@ -2959,6 +3093,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "PowerWhipMove1"
 }
+*/
 {
     name = "Joltik"
     accuracy = 3
@@ -2977,6 +3112,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "FuryCutterMove1"
 }
+/*
 {
     name = "Galvantula"
     accuracy = 3
@@ -2995,6 +3131,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "BugBuzzMove1"
 }
+*/
 {
     name = "Mareep"
     accuracy = 3
@@ -3013,6 +3150,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "ElectroWebMove1"
 }
+/*
 {
     name = "Flaaffy"
     accuracy = 3
@@ -3049,6 +3187,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "ThunderboltMove1"
 }
+
 {
     name = "Pinsir"
     accuracy = 3
@@ -3085,6 +3224,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "MegahornMove1"
 }
+*/
 {
     name = "Yanma"
     accuracy = 3
@@ -3103,6 +3243,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "AirSlashMove1"
 }
+/*
 {
     name = "Yanmega"
     accuracy = 3
@@ -3157,6 +3298,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "IronHeadMove1"
 }
+*/
 {
     name = "Venonat"
     accuracy = 3
@@ -3175,6 +3317,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "SignalBeamMove1"
 }
+/*
 {
     name = "Venomoth"
     accuracy = 3
@@ -3193,6 +3336,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "BugBuzzMove1"
 }
+*/
 {
     name = "Wimpod"
     accuracy = 3
@@ -3211,6 +3355,7 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "LeechLifeMove1"
 }
+/*
 {
     name = "Golisopod"
     accuracy = 3
@@ -3229,135 +3374,204 @@ clearbots
     chatfrequency = 50
     favoriteweapon = "LeechLifeMove1"
 }
+*/
+{
+    name = "Machop"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Machop"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "HammerArmMove1"
+}
+{
+    name = "Machoke"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Machoke"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BrickBreakMove1"
+}
+{
+    name = "Machamp"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Machamp"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SuperPowerMove1"
+}
+{
+    name = "Makuhita"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Makuhita"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BrickBreakMove1"
+}
+{
+    name = "Hariyama"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Hariyama"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BrickBreakMove1"
+}
+{
+    name = "Tyrogue"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Tyrogue"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BrickBreakMove1"
+}
+{
+    name = "Hitmonlee"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Hitmonlee"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "BlazeKickMove1"
+}
+{
+    name = "Hitmonchan"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Hitmonchan"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "SkyUppercutMove1"
+}
+{
+    name = "HitmonTop"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "HitmonTop"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "DoubleKickMove1"
+}
+{
+    name = "Riolu"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Riolu"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "MetalClawMove1"
+}
+{
+    name = "Lucario"
+    accuracy = 3
+    intellect = 4
+    evade = 1
+    anticipation = 1
+    reactiontime = 1
+    perception = 1
+    color = "00 00 00"
+    gender = "male"
+    skin = "base"
+    class = "Lucario"
+    revealed = true
+    script = "humanbot"
+    chatlump = "botchats/COPYBOT"
+    chatfrequency = 50
+    favoriteweapon = "FocusBlastMove1"
+}
 //--[NewPokemon]--
 
-/*
-{
-	name = "Jolteon"
-	accuracy = 3
-	intellect = 4
-	evade = 1
-	anticipation = 1
-	reactiontime = 1
-	perception = 1
-	color = "00 00 00"
-	gender = "male"
-	skin = "base"
-	class = "Jolteon"
-	revealed = true
-	script = "humanbot"
-	chatlump = "botchats/COPYBOT"
-	chatfrequency = 50
-}
-
-
-{
-	name = "Flareon"
-	accuracy = 3
-	intellect = 4
-	evade = 1
-	anticipation = 1
-	reactiontime = 1
-	perception = 1
-	color = "00 00 00"
-	gender = "male"
-	skin = "base"
-	class = "Flareon"
-	revealed = true
-	script = "humanbot"
-	chatlump = "botchats/COPYBOT"
-	chatfrequency = 50
-}
-
-
-
-{
-	name = "Vaporeon"
-	accuracy = 3
-	intellect = 4
-	evade = 1
-	anticipation = 1
-	reactiontime = 1
-	perception = 1
-	color = "00 00 00"
-	gender = "male"
-	skin = "base"
-	class = "Vaporeon"
-	revealed = true
-	script = "humanbot"
-	chatlump = "botchats/COPYBOT"
-	chatfrequency = 50
-}
-
-{
-	name = "Espeon"
-	accuracy = 3
-	intellect = 4
-	evade = 1
-	anticipation = 1
-	reactiontime = 1
-	perception = 1
-	color = "00 00 00"
-	gender = "male"
-	skin = "base"
-	class = "Espeon"
-	revealed = true
-	script = "humanbot"
-	chatlump = "botchats/COPYBOT"
-	chatfrequency = 50
-}
-
-{
-	name = "Umbreon"
-	accuracy = 3
-	intellect = 4
-	evade = 1
-	anticipation = 1
-	reactiontime = 1
-	perception = 1
-	color = "00 00 00"
-	gender = "male"
-	skin = "base"
-	class = "Umbreon"
-	revealed = true
-	script = "humanbot"
-	chatlump = "botchats/COPYBOT"
-	chatfrequency = 50
-}
-
-{
-	name = "Leafeon"
-	accuracy = 3
-	intellect = 4
-	evade = 1
-	anticipation = 1
-	reactiontime = 1
-	perception = 1
-	color = "00 00 00"
-	gender = "male"
-	skin = "base"
-	class = "Leafeon"
-	revealed = true
-	script = "humanbot"
-	chatlump = "botchats/COPYBOT"
-	chatfrequency = 50
-}
-
-{
-	name = "Glaceon"
-	accuracy = 3
-	intellect = 4
-	evade = 1
-	anticipation = 1
-	reactiontime = 1
-	perception = 1
-	color = "00 00 00"
-	gender = "male"
-	skin = "base"
-	class = "Glaceon"
-	revealed = true
-	script = "humanbot"
-	chatlump = "botchats/COPYBOT"
-	chatfrequency = 50
-}
-*/
