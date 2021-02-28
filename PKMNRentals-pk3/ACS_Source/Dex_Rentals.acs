@@ -1,0 +1,271 @@
+/* -=- Rentals Moveset Dex -=-
+ * Contains the moveset definitions for rental pokemon, rental mods can redefine this 
+ * DEX file for their own formats.
+ * 
+ * The way this works is that the array behaves like a dictionary, the 0th element refers to the dex number
+ * of the pokemon class, and elements 1-4 hold the constants for moves 1-4. the 5th element contains the Botweapon
+ * 
+ * 
+
+*/
+#library "Dex_Rentals"
+#import "Dex_Pokemon.acs"
+#import "Dex_Moves.acs"
+#include "zcommon.acs"
+
+Int RentalMoveDex [MAXDEX][6] = {
+/*|0|*/{SMEARGLE,/**/Sketch,NullMove,NullMove,NullMove,/**/ Sketch},
+
+/*|1|*/{BULBASAUR,/**/EnergyBall,ToxicSpikes,SweetScent,SleepPowder,/**/ EnergyBall},
+/*|2|*/{IVYSAUR,/**/EnergyBall,Venoshock,ToxicSpikes,SweetScent,/**/ EnergyBall},
+/*|3|*/{VENUSAUR,/**/SolarBeam,EarthPower,SleepPowder,Synthesis,/**/ SolarBeam},
+/*|4|*/{CHARMANDER,/**/Ember,Bite,MetalClaw,Leer,/**/ NullMove},
+/*|5|*/{CHARMELEON,/**/FlameBurst,Slash,Pursuit,ScaryFace,/**/ FlameBurst},
+/*|6|*/{CHARIZARD,/**/FireBlast,AirSlash,Fly,TailWind,/**/ FlameThrower},
+/*|7|*/{SQUIRTLE,/**/Watergun,Bite,Growl,Protect,/**/ NullMove},
+/*|8|*/{WARTORTLE,/**/BubbleBeam,Dive,RapidSpin,WaterPulse,/**/ BubbleBeam},
+/*|9|*/{BLASTOISE,/**/HydroPump,Liquidation,AuraSphere,ShellSmash,/**/ HydroPump},
+
+/*|10|*/{CHIKORITA,/**/VineWhip,LifeDew,PoisonPowder,Synthesis,/**/ VineWhip},
+/*|11|*/{BAYLEEF,/**/SeedBomb,MorningSun,LightScreen,Aromatherapy,/**/ SeedBomb},
+/*|12|*/{MEGANIUM,/**/SolarBeam,HealPulse,GrassWhistle,Dig,/**/ SolarBeam},
+/*|13|*/{CYNDAQUIL,/**/Ember,Mudslap,QuickAttack,DefenseCurl,/**/ Ember},
+/*|14|*/{QUILAVA,/**/LavaPlume,RockTomb,StealthRock,Dig,/**/ LavaPlume},
+/*|15|*/{TYPHLOSION,/**/FlameThrower,FlameCharge,RockSlide,WideGuard,/**/ FlameThrower},
+/*|16|*/{TOTODILE,/**/Watergun,Bite,Leer,Rage,/**/ Watergun},
+/*|17|*/{CROCONAW,/**/WaterPulse,IceFang,Dive,WhirlPool,/**/ WaterPulse},
+/*|18|*/{FERALIGATR,/**/AquaTail,Crunch,Liquidation,SwordDance,/**/ AquaTail},
+
+/*|19|*/{TREECKO,/**/Leafage,QuickAttack,Detect,Leer,/**/ Leafage},
+/*|20|*/{GROVYLE,/**/MegaDrain,LeechSeed,QuickAttack,Detect,/**/ MegaDrain},
+/*|21|*/{SCEPTILE,/**/LeafBlade,NightSlash,Acrobatics,SwordDance,/**/ LeafBlade},
+/*|22|*/{TORCHIC,/**/Ember,Growl,Peck,QuickAttack,/**/ Ember},
+/*|23|*/{COMBUSKEN,/**/DoubleKick,FirePunch,Vacuumwave,FlameBurst,/**/ DoubleKick},
+/*|24|*/{BLAZIKEN,/**/BlazeKick,SkyUppercut,NightSlash,Agility,/**/ BlazeKick},
+/*|25|*/{MUDKIP,/**/Watergun,RockThrow,Yawn,Bite,/**/ Watergun},
+/*|26|*/{MARSHTOMP,/**/MudShot,RockTomb,SlackOff,Refresh,/**/ MudShot},
+/*|27|*/{SWAMPERT,/**/MuddyWater,HammerArm,RockSlide,Rest,/**/ MuddyWater},
+
+/*|28|*/{TURTWIG,/**/Leafage,Bite,Protect,LeechSeed,/**/ Leafage},
+/*|29|*/{GROTLE,/**/RazorLeaf,BullDoze,Growth,LeechSeed,/**/ RazorLeaf},
+/*|30|*/{TORTERRA,/**/WoodHammer,EarthQuake,SuperPower,MorningSun,/**/ WoodHammer},
+/*|31|*/{CHIMCHAR,/**/Ember,Taunt,Leer,Fakeout,/**/ Ember},
+/*|32|*/{MONFERNO,/**/MachPunch,BlazeKick,FireSpin,SlackOff,/**/ MachPunch},
+/*|33|*/{INFERNAPE,/**/FirePunch,CloseCombat,Acrobatics,StealthRock,/**/ FirePunch},
+/*|34|*/{PIPLUP,/**/Watergun,Peck,AquaJet,Yawn,/**/ Watergun},
+/*|35|*/{PRINPLUP,/**/BubbleBeam,MetalClaw,Agility,Mist,/**/ BubbleBeam},
+/*|36|*/{EMPOLEON,/**/HydroPump,FlashCannon,WhirlPool,IcyWind,/**/ HydroPump},
+
+/*|37|*/{DREEPY,/**/Astonish,Infestation,QuickAttack,Bite,/**/ Astonish},
+/*|38|*/{DRAKLOAK,/**/DragonBreath,Hex,ConfuseRay,PhantomForce,/**/ DragonBreath},
+/*|39|*/{DRAGAPULT,/**/DragonDarts,Shadowball,Fly,Infestation,/**/ Shadowball},
+
+/*|40|*/{DRATINI,/**/Ember,Watergun,ThunderShock,Twister,/**/ Twister},
+/*|41|*/{DRAGONAIR,/**/DragonPulse,Surf,Slam,Safeguard,/**/ DragonPulse},
+/*|42|*/{DRAGONITE,/**/DragonClaw,ThunderBolt,Tailwind,Fly,/**/ DragonClaw},
+
+/*|43|*/{BAGON,/**/Ember,Rage,Leer,Bite,/**/ Ember},
+/*|44|*/{SHELGON,/**/DragonPulse,Crunch,Rollout,DefenseCurl,/**/ Crunch},
+/*|45|*/{SALAMENCE,/**/Flamethrower,HydroPump,Outrage,Fly,/**/ Flamethrower},
+
+/*|46|*/{SLOWPOKE,/**/Watergun,SlackOff,Yawn,Curse,/**/ Watergun},
+/*|47|*/{SLOWBRO,/**/ZenHeadbutt,AquaTail,Reflect,Grudge,/**/ ZenHeadbutt},
+/*|48|*/{SLOWKING,/**/Psyshock,Surf,LightScreen,Teleport_M,/**/ Psyshock},
+
+/*|49|*/{STARYU,/**/Bubble,Psywave,RapidSpin,Reflect,/**/ Bubble},
+/*|50|*/{STARMIE,/**/HydroPump,Blizzard,Thunderbolt,Recover,/**/ HydroPump},
+
+/*|51|*/{SHELLDER,/**/WaterGun,Protect,IceShard,Spikes,/**/ WaterGun},
+/*|52|*/{CLOYSTER,/**/IcicleSpear,Liquidation,Block,ToxicSpikes,/**/ IceBeam},
+
+/*|53|*/{VULPIX,/**/Ember,Hypnosis,QuickAttack,Disable,/**/ Ember},
+/*|54|*/{NINETALES,/**/Inferno,Extrasensory,WillOWisp,Spite,/**/ Inferno},
+
+/*|55|*/{VULPIX_A,/**/PowderSnow,Hypnosis,QuickAttack,Disable,/**/ PowderSnow},
+/*|56|*/{NINETALES_A,/**/MoonBlast,Blizzard,Moonlight,CalmMind,/**/ MoonBlast},
+
+/*|57|*/{SNOVER,/**/PowderSnow,Leafage,Leer,Growth,/**/ PowderSnow},
+/*|58|*/{ABOMASNOW,/**/RazorLeaf,Blizzard,Swagger,Synthesis,/**/ Blizzard},
+
+/*|59|*/{SWINUB,/**/Mudslap,PowderSnow,Curse,Bite,/**/ PowderSnow},
+/*|60|*/{PILOSWINE,/**/IcyWind,Bulldoze,TakeDown,Rest,/**/ IcyWind},
+/*|61|*/{MAMOSWINE,/**/Earthquake,RockSlide,IcicleCrash,DoubleEdge,/**/ Earthquake},
+
+/*|62|*/{ABRA,/**/Psywave,Barrier,Bite,Teleport_M,/**/ Psywave},
+/*|63|*/{KADABRA,/**/Psychic,FutureSight,PowerGem,CalmMind,/**/ ExtraSensory},
+/*|64|*/{ALAKAZAM,/**/ExtraSensory,ShadowBall,Reflect,Recover,/**/ Psyshock},
+
+/*|65|*/{DROWZEE,/**/Psywave,Hypnosis,Barrier,DreamEater,/**/ Psywave},
+/*|66|*/{HYPNO,/**/Psyshock,Hex,ThunderWave,NastyPlot,/**/ Psyshock},
+
+/*|67|*/{RALTS,/**/FairyWind,Psywave,LifeDew,Hypnosis,/**/ FairyWind},
+/*|68|*/{KIRLIA,/**/PsyBeam,DisarmingVoice,Barrier,Teleport_M,/**/ PsyBeam},
+/*|69|*/{GARDEVOIR,/**/MoonBlast,ExtraSensory,Moonlight,FutureSight,/**/ MoonBlast},
+/*|70|*/{GALLADE,/**/Psychocut,CloseCombat,NightSlash,SwordDance,/**/ Psychocut},
+
+/*|71|*/{EXEGGCUTE,/**/Psywave,Absorb,Hypnosis,LeechSeed,/**/ Psywave},
+/*|72|*/{EXEGGUTOR,/**/Solarbeam,Psychic,Moonlight,Substitute,/**/ Solarbeam},
+
+/*|73|*/{TORKOAL,/**/LavaPlume,ClearSmog,ShellSmash,SmokeScreen,/**/ LavaPlume},
+
+/*|74|*/{SLUGMA,/**/Ember,Yawn,Leer,RockThrow,/**/ Ember},
+/*|75|*/{MAGCARGO,/**/Inferno,PowerGem,Toxic,Explosion,/**/ Inferno},
+
+/*|76|*/{PICHU,/**/ThunderShock,QuickAttack,Charm,TailWhip,/**/ ThunderShock},
+/*|77|*/{PIKACHU,/**/ElectroBall,Swift,Surf,LightScreen,/**/ ElectroBall},
+/*|78|*/{RAICHU,/**/ThunderBolt,Slam,ThunderWave,Charm,/**/ ThunderBolt},
+
+/*|79|*/{FERROSEED,/**/Leafage,MetalClaw,Spikes,Rapidspin,/**/ Leafage},
+/*|80|*/{FERROTHORN,/**/PowerWhip,IronHead,Spikes,Explosion,/**/ PowerWhip},
+
+/*|81|*/{HORSEA,/**/Bubble,leer,smokescreen,twister,/**/ Bubble},
+/*|82|*/{SEADRA,/**/WaterPulse,AuroraBeam,Disable,Whirlpool,/**/ WaterPulse},
+/*|83|*/{KINGDRA,/**/HydroPump,DragonPulse,DracoMeteor,Yawn,/**/ HydroPump},
+
+/*|84|*/{CHERUBI,/**/Leafage,Growth,HelpingHand,SweetScent,/**/ Leafage},
+/*|85|*/{CHERRIM_O,/**/MegaDrain,LeechSeed,GrassWhistle,FakeTears,/**/ MegaDrain},
+/*|86|*/{CHERRIM_S,/**/SolarBeam,MorningSun,GrassWhistle,Captivate,/**/ SolarBeam},
+
+/*|87|*/{GROWLITHE,/**/Bite,Ember,Leer,HelpingHand,/**/ Ember},
+/*|88|*/{ARCANINE,/**/Flamethrower,WildCharge,FireSpin,Teleport_m,/**/ Flamethrower},
+
+/*|89|*/{DEINO,/**/Bite,DragonRage,Astonish,Rage,/**/ Bite},
+/*|90|*/{ZWEILOUS,/**/DragonPulse,HeatWave,Crunch,ScaryFace,/**/ DragonPulse},
+/*|91|*/{HYDREIGON,/**/FireBlast,HydroPump,Fly,Defog,/**/ HydroPump},
+
+/*|92|*/{SOLOSIS,/**/Psywave,Protect,Growl,Recover,/**/ Psywave},
+/*|93|*/{DUOSION,/**/Confusion,Psybeam,Reflect,CalmMind,/**/ PsyBeam},
+/*|94|*/{REUNICLUS,/**/ExtraSensory,SignalBeam,Infestation,Recover,/**/ ExtraSensory},
+
+/*|95|*/{HAPPINY,/**/Swift,LifeDew,Refresh,HelpingHand,/**/ Swift},
+/*|96|*/{CHANSEY,/**/DrainingKiss,EggBomb,SoftBoiled,Sing,/**/ DrainingKiss},
+/*|97|*/{BLISSEY,/**/EggBomb,Toxic,SoftBoiled,Substitute,/**/ EggBomb},
+
+/*|98|*/{GEODUDE,/**/RockThrow,DefenseCurl,Rollout,StealthRock,/**/ RockThrow},
+/*|99|*/{GRAVELER,/**/RockTomb,Bulldoze,IronDefense,ShoreUp,/**/ RockTomb},
+/*|100|*/{GOLEM,/**/Earthquake,FirePunch,Rollout,Explosion,/**/ Earthquake},
+
+/*|101|*/{GEODUDE_A,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|102|*/{GRAVELER_A,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|103|*/{GOLEM_A,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|104|*/{ONIX,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|105|*/{STEELIX,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|106|*/{SCYTHER,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|107|*/{SCIZOR,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|108|*/{ZANGOOSE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|109|*/{SEVIPER,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|110|*/{BELDUM,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|111|*/{METANG,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|112|*/{METAGROSS,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|113|*/{CLEFFA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|114|*/{CLEFAIRY,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|115|*/{CLEFABLE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|116|*/{IGGLYBUFF,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|117|*/{JIGGLYPUFF,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|118|*/{WIGGLYTUFF,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|119|*/{AUDINO,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|120|*/{ALOMOMOLA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|121|*/{BERGMITE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|122|*/{AVALUGG,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|123|*/{CROAGUNK,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|124|*/{TOXICROAK,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|125|*/{EKANS,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|126|*/{ARBOK,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|127|*/{STUNKY,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|128|*/{SKUNTANK,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|129|*/{GULPIN,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|130|*/{SWALOT,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|131|*/{GASTLY,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|132|*/{HAUNTER,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|133|*/{GENGAR,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|134|*/{TENTACOOL,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|135|*/{TENTACRUEL,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|136|*/{MAGIKARP,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|137|*/{GYARADOS,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|138|*/{QWILFISH,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|139|*/{SKARMORY,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|140|*/{LARVESTA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|141|*/{VOLCARONA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|142|*/{MANTYKE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|143|*/{MANTINE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|144|*/{TRAPINCH,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|145|*/{VIBRAVA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|146|*/{FLYGON,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|147|*/{CACNEA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|148|*/{CACTURNE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|149|*/{MUNCHLAX,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|150|*/{SNORLAX,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|151|*/{SEEDOT,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|152|*/{NUZLEAF,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|153|*/{SHIFTRY,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|154|*/{MAGNEMITE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|155|*/{MAGNETON,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|156|*/{MAGNEZONE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|157|*/{MURKROW,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|158|*/{HONCHKROW,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|159|*/{TANGELA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|160|*/{TANGROWTH,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|161|*/{JOLTIK,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|162|*/{GALVANTULA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|163|*/{MAREEP,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|164|*/{FLAAFFY,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|165|*/{AMPHAROS,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|166|*/{PINSIR,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|167|*/{HERACROSS,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|168|*/{YANMA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|169|*/{YANMEGA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|170|*/{SHUCKLE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|171|*/{DURANT,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|172|*/{VENONAT,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|173|*/{VENOMOTH,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+
+/*|174|*/{WIMPOD,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|175|*/{GOLISOPOD,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|176|*/{MACHOP,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|177|*/{MACHOKE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|178|*/{MACHAMP,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|179|*/{MAKUHITA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|180|*/{HARIYAMA,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|181|*/{TYROGUE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|182|*/{HITMONLEE,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|183|*/{HITMONCHAN,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|184|*/{HITMONTOP,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|185|*/{RIOLU,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+/*|186|*/{LUCARIO,/**/Sketch,NullMove,NullMove,NullMove,/**/ NullMove},
+};
